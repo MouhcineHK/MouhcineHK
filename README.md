@@ -2,7 +2,6 @@
 <h3 align="center">Passionate Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouhcinehk&label=Profile%20views&color=0e75b6&style=flat" alt="mouhcinehk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -11,7 +10,7 @@
 
 - 👯 I’m looking to collaborate **on everything**
 
-- 📝 I regularly write articles on [https://medium.com/@Mouhcinestudying](https://medium.com/@Mouhcinestudying)
+- 📝 I regularly read articles on [https://medium.com/@Mouhcinestudying](https://medium.com/@Mouhcinestudying)
 
 - 💬 Ask me about **ELK , Hadoop , Kafka**
 
